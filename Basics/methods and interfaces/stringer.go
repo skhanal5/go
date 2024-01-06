@@ -8,7 +8,7 @@ type Person struct {
 }
 
 /*
-	The function below implements the Stringer interface.
+	The method below implements the Stringer interface.
 	This is the equivalent of toString()
 */
 func (p Person) String() string {
