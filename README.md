@@ -1,6 +1,6 @@
 # Learning Go
 
-This repository will be code samples that I make while learning Go.
+References to material I used to learn Go
 
 ## Table of Contents
 1. Basics
