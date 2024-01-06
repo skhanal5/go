@@ -8,6 +8,7 @@ This repository will be code samples that I make while learning Go.
 	2. flow control statements
 	3. methods and interfaces
 	4. more types
+ 	5. generics
     
 ## Tutorials/Resources Used
 
