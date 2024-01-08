@@ -9,6 +9,7 @@ References to material I used to learn Go
 	3. methods and interfaces
 	4. more types
  	5. generics
+  	6. concurrency 
     
 ## Tutorials/Resources Used
 
