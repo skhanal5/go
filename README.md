@@ -12,3 +12,7 @@ References to material I used to learn Go
   	6. concurrency 
 2. [Web Dev](https://gowebexamples.com)
 	1. Hello World
+ 	2. HTTP Server
+  	3. Routing
+      	4. MySQL Database
+       	5. Templates
